@@ -3,7 +3,7 @@ import pandas as pd
 import pickle
 import time
 
-
+##hii
 def get_similar(movie_name, rating):
 
     # Calculate similarity ratings adjusted by the user's rating
